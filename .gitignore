@@ -29,3 +29,11 @@ dev-build
 .tern-port
 npm-debug.log*
 build/
+.idea/.name
+.idea/cf-react-popover.iml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries/cf_react_popover_node_modules.xml
