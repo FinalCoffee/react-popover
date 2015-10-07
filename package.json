@@ -20,12 +20,12 @@
     "type": "git",
     "url": "https://github.com/littlebits/react-popover.git"
   },
-  "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
-  "name": "react-popover",
+  "author": "Alan Yang <finalcoffee99@gmail.com>",
+  "name": "cf-react-popover",
   "homepage": "https://github.com/littlebits/react-popover",
-  "version": "0.3.6",
+  "version": "0.0.1",
   "main": "build/index.js",
-  "description": "A specification backed popover for react",
+  "description": "A specification backed popover for react in cf",
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-eslint": "^4.1.3",
