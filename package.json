@@ -23,7 +23,7 @@
   "author": "Alan Yang <finalcoffee99@gmail.com>",
   "name": "cf-react-popover",
   "homepage": "https://github.com/littlebits/react-popover",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "build/index.js",
   "description": "A specification backed popover for react in cf",
   "devDependencies": {
